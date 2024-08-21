@@ -1,1 +1,35 @@
-# To-Do-List
+
+# To-Do List Application
+
+## Overview
+
+This is a simple, interactive To-Do List web application built using HTML, CSS, and JavaScript. The application allows users to manage their daily tasks by adding, marking as complete, and deleting tasks. The main goal of this project is to demonstrate fundamental web development skills and the ability to create a user-friendly interface.
+
+##screenshot
+
+![Screenshot from 2024-08-21 12-24-16](https://github.com/user-attachments/assets/5108e492-7ad0-488b-a558-83bcd22e0401)
+
+## Features
+
+- **Add Task:** Easily add new tasks to the list.
+- **Mark as Complete:** Users can mark tasks as complete by clicking on them.
+- **Delete Task:** Remove tasks that are no longer needed.
+  
+## Technologies Used
+
+- **HTML:** For structuring the content of the application.
+- **CSS:** For styling the application to make it visually appealing.
+- **JavaScript:** For adding interactivity and handling the functionality of the to-do list.
+
+## Getting Started
+
+### Prerequisites
+
+- A web browser (Chrome, Firefox, Safari, etc.)
+- No additional installations are required.
+
+### Installation
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/keerthivasan-97/CODTECH-TASK-2.git
